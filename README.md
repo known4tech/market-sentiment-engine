@@ -45,5 +45,5 @@ To run this application on your own machine, please follow these steps:
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/known4tech/market-sentiment-engine](https://github.com/known4tech/market-sentiment-engine)
+git clone https://github.com/known4tech/market-sentiment-engine
 cd your-repo-name
