@@ -2,8 +2,6 @@
 
 **Live Demo:** **[🚀 View the Live Application Here]([https://your-app-url.streamlit.app/](https://market-sentiment-engine.streamlit.app/))**
 
-![Dashboard Preview](https://i.imgur.com/K8JgU5e.png)
-
 ## 🎯 Project Goal
 
 The Asset-Specific Sentiment Engine (AMSE) is a comprehensive dashboard designed to ingest live financial news, perform sentiment analysis, and correlate it with market price data to generate actionable insights. The goal is to provide a clear, data-driven narrative of market conditions for various assets, including Indian and global indices, forex, and commodities.
