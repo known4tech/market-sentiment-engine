@@ -1,6 +1,6 @@
 # AMSE: Asset-Specific Sentiment Engine 📈
 
-**Live Demo:** **[🚀 View the Live Application Here]([https://your-app-url.streamlit.app/](https://market-sentiment-engine.streamlit.app/))**
+**Live Demo:** https://market-sentiment-engine.streamlit.app/
 
 ## 🎯 Project Goal
 
